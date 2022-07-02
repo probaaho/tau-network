@@ -1,0 +1,19 @@
+{
+  "name": "quarks_api_centralized",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "mysql": "^2.18.1",
+    "timestamp-nano": "^1.0.0"
+  }
+}

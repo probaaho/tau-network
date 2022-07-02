@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,/readMessage,[Errno 104] Connection reset by peer,1
+POST,/sendMessage,[Errno 104] Connection reset by peer,3
