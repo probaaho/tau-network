@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+POST,/sendMessage,Remote end closed connection without response,1
+POST,/readMessage,Remote end closed connection without response,3
+POST,/readMessage,[Errno 104] Connection reset by peer,2
+POST,/sendMessage,[Errno 104] Connection reset by peer,3
